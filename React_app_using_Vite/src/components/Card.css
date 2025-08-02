@@ -1,0 +1,24 @@
+.card {
+    background-color: #0ecbe0d2;
+    border: 1px solid #00000005;
+    border-radius: 8px;
+    padding: 16px;
+    box-shadow: 0 2px 4px rgba(48, 45, 45, 0.373);
+    margin: 16px;
+    height: 400px;
+    width: 300px;
+}
+
+.img {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 250px;
+}
+
+.card img {
+    height: 100%;
+    width: auto;
+    max-width: 100%;
+    border-radius: 8px;
+}
